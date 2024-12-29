@@ -21,6 +21,7 @@
 
 
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -45,8 +46,11 @@
 </td>
 </tr>
 </table>
+</div>
 
-### Core Capabilities
+<h3 align="center">Core Capabilities</h3>
+
+<div align="center">
 
 | Feature | Description |
 |---------|-------------|
@@ -54,6 +58,8 @@
 | Secure Passwords | SHA-256 hashing with random salt, security questions for recovery |
 | Connection Pooling | HikariCP for efficient database connection management |
 | Modern UI | FlatLaf dark theme with custom components |
+
+</div>
 
 <br/>
 
